@@ -14,13 +14,11 @@ bundle install
 # Run the Rspec test
 rspec
 ```
+```
 
 # Features to check
 User creation, sign up & login process
 User input validations 
 User relation with Post and Messages
 ```
-
-## Author:
-**[Malik Nur]**
-[Malik Nur]: https://www.linkedin.com/in/maliknur
+```
